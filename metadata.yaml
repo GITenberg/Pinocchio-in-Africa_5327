@@ -1,0 +1,42 @@
+_repo: Pinocchio-in-Africa_5327
+contributor:
+  translator:
+    agent_name: Patri, Angelo
+    birthdate: 1876
+    deathdate: 1965
+    gutenberg_agent_id: '1768'
+    url: http://www.gutenberg.org/2009/agents/1768
+    wikipedia: http://en.wikipedia.org/wiki/Angelo_Patri
+covers:
+- cover_type: archival
+  image_path: 5327/5327-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Cherubini, Eugenio
+    alias: Cherubini, E. (Eugenio)
+    gutenberg_agent_id: '1767'
+    url: http://www.gutenberg.org/2009/agents/1767
+description: When the gentle woodcarver Geppetto builds a marionette to be his substitute
+  son, a benevolent fairy brings the toy to life. The puppet, named Pinocchio is not
+  yet a human boy. He must earn the right to be real by proving that he is brave,
+  truthful, and unselfish. But, even with the help of Jiminy, a cricket who the fairy
+  assigns to be Pinocchio's conscience, the marionette goes astray. He joins a puppet
+  show instead of going to school, he lies instead of telling the truth, and he travels
+  to Pleasure Island instead of going straight home. Yet, when Pinocchio discovers
+  that a whale.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Pinocchio (Fictitious character) -- Juvenile fiction'
+title: Pinocchio in Africa
+url: http://www.gutenberg.org/ebooks/5327
