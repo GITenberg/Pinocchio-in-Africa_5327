@@ -1,5 +1,5 @@
 _repo: Pinocchio-in-Africa_5327
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Patri, Angelo
@@ -39,5 +39,6 @@ subjects:
 - !lcsh 'Africa -- Juvenile fiction'
 - !lcc 'PZ'
 - !lcsh 'Pinocchio (Fictitious character) -- Juvenile fiction'
+- GITenberg
 title: Pinocchio in Africa
 url: http://www.gutenberg.org/ebooks/5327
